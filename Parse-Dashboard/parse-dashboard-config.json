@@ -1,15 +1,15 @@
 {
   "apps": [{
-    "serverURL": "https://btown-rides-production.herokuapp.com/parse",
-    "appId": "btownRidesProduction3495803840530",
-    "masterKey": "btownRidesProductionMasterKey493085938450FSDFK",
-    "appName": "BTown Rides",
+    "serverURL": "https://hippies-and-housewives.herokuapp.com/parse",
+    "appId": "hippiesAndHousewives123SHDJ4852",
+    "masterKey": "hippiesAndHousewives485738FHDJSK",
+    "appName": "Hippies And Housewives",
     "iconName": "",
     "production": "true"
   }],
   "users": [{
-    "user":"cofounder",
-    "pass":"btownridesforever1234"
+    "user":"messyjones",
+    "pass":"cofounder"
   }],
   "iconsFolder": "icons"
 }

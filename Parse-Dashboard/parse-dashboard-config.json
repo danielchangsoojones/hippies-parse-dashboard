@@ -2,7 +2,7 @@
   "apps": [{
     "serverURL": "https://hippies-and-housewives.herokuapp.com/parse",
     "appId": "hippiesAndHousewives123SHDJ4852",
-    "masterKey": "hippiesAndHousewives485738FHDJSK",
+    
     "appName": "Hippies And Housewives",
     "iconName": "",
     "production": "true"

@@ -1,9 +1,9 @@
 {
   "apps": [{
-    "serverURL": "http://shuffles-production.herokuapp.com/parse",
-    "appId": "shuffle12890432EJLDIFJEKhdhd",
-    "masterKey": "shuffle21319808432940LKJLSJD",
-    "appName": "ShuffleHunt",
+    "serverURL": "https://hippies-and-housewives-develop.herokuapp.com/parse",
+    "appId": "hippiesAndHousewivesDevelop489305028",
+    "masterKey": "hippiesAndHousewivesDevelop4850385933",
+    "appName": "Hippies And Housewives",
     "iconName": "",
     "production": "true"
   }],

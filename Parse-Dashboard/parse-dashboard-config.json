@@ -1,15 +1,24 @@
 {
   "apps": [{
     "serverURL": "https://hippies-and-housewives-develop.herokuapp.com/parse",
-    "appId": "hippiesAndHousewivesDevelop489305028",
+    "appId": "firstAppId",
     "masterKey": "Hiiii",
     "appName": "Hippies And Housewives",
     "iconName": "hi.jpg",
     "production": "true"
-  }],
+  },
+  {
+    "serverURL": "https://hippies-and-housewives-develop.herokuapp.com/parse",
+    "appId": "anotherAppId",
+    "masterKey": "Hiiii",
+    "appName": "Another App",
+    "iconName": "hi.jpg"
+  }
+],
   "users": [{
     "user":"messyjones",
-    "pass":"cofounder"
+    "pass":"cofounder",
+    "apps": [{"appId": "firstAppId"}, {"appId": "anotherAppId"}]
   }],
   "iconsFolder": "icons"
 }

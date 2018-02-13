@@ -1,10 +1,15 @@
 {
   "apps": [{
-    "serverURL": "",
-    "appId": "",
-    "masterKey": "",
-    "appName": "",
-    "iconName": ""
+    "serverURL": "https://btown-rides-production.herokuapp.com/parse",
+    "appId": "btownRidesProduction3495803840530",
+    "masterKey": "btownRidesProductionMasterKey493085938450FSDFK",
+    "appName": "BTown Rides",
+    "iconName": "",
+    "production": "true"
+  }],
+  "users": [{
+    "user":"cofounder",
+    "pass":"btownridesforever1234"
   }],
   "iconsFolder": "icons"
 }

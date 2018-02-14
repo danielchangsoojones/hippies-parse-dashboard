@@ -3,15 +3,15 @@
     "serverURL": "https://hippies-and-housewives-develop.herokuapp.com/parse",
     "appId": "hippiesAndHousewivesDevelop489305028",
     "masterKey": "Hiiii",
-    "appName": "Hippies And Housewives",
+    "appName": "Read Only",
     "iconName": "hi.jpg",
     "production": "true"
   },
   {
     "serverURL": "https://hippies-and-housewives-develop.herokuapp.com/parse",
-    "appId": "anotherAppId",
+    "appId": "hippiesAndHousewivesDevelop4850385933",
     "masterKey": "Hiiii",
-    "appName": "Another App",
+    "appName": "Allow Writing",
     "iconName": "hi.jpg"
   }
 ],
